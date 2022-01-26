@@ -230,7 +230,7 @@ CONV_CAUCHY_EPS= 1E-5
 % ------------------------- INPUT/OUTPUT INFORMATION --------------------------%
 %
 % Mesh input file
-MESH_FILENAME= mesh_media.su2
+MESH_FILENAME= mesh_baseline.su2
 %
 % Mesh input file format (SU2, CGNS, NETCDF_ASCII)
 MESH_FORMAT= SU2
